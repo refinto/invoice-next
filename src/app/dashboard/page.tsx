@@ -48,7 +48,7 @@ export default function Home() {
       <TableCell className="text-left">marco@reus.com</TableCell>
       <TableCell className="text-left">
         <Badge className="rounded-full">
-            Open
+            Open Here
         </Badge>
         </TableCell>
       <TableCell className="text-right">$250.00</TableCell>
