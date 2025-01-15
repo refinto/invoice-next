@@ -2,7 +2,7 @@ import React from 'react'
 
 const Utama = () => {
   return (
-    <div>Utama</div>
+    <div>Halaman Utama</div>
   )
 }
 
